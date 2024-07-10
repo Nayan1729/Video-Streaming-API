@@ -1,0 +1,8 @@
+# General files and folder
+/.vscode
+/nodemodules
+./dist
+# Any type of env files shouldnt have the prettier constraints
+*.env
+.env
+.env.*
